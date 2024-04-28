@@ -1,0 +1,8 @@
+#fieldsetMonsterStats {
+  background-color:red;
+  color:white;
+  display:none;
+}
+#spanZombieDamageText {
+  padding:50px;
+}
